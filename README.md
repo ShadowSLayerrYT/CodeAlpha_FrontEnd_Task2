@@ -34,6 +34,6 @@ Contributions are welcome! Please feel free to submit a pull request if you'd li
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 📧 Contact
-For any inquiries or feedback, please contact me at your-email@example.com.
+For any inquiries or feedback, please contact me at shadowslayerryt@gmail.com.
 
 Happy calculating! 🎉
