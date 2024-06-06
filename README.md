@@ -27,13 +27,16 @@ Copy code
 cd calculator
 open index.html
 
-🤝 Contributing
+## 🤝 Contributing
+
 Contributions are welcome! Please feel free to submit a pull request if you'd like to add new features or fix bugs.
 
-📄 License
+## 📄 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-📧 Contact
+## 📧 Contact
+
 For any inquiries or feedback, please contact me at shadowslayerryt@gmail.com.
 
 Happy calculating! 🎉
